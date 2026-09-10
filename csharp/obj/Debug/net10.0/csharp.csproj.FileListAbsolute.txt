@@ -1,0 +1,15 @@
+/workspaces/training-code-/csharp/bin/Debug/net10.0/csharp
+/workspaces/training-code-/csharp/bin/Debug/net10.0/csharp.deps.json
+/workspaces/training-code-/csharp/bin/Debug/net10.0/csharp.runtimeconfig.json
+/workspaces/training-code-/csharp/bin/Debug/net10.0/csharp.dll
+/workspaces/training-code-/csharp/bin/Debug/net10.0/csharp.pdb
+/workspaces/training-code-/csharp/obj/Debug/net10.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/training-code-/csharp/obj/Debug/net10.0/csharp.AssemblyInfoInputs.cache
+/workspaces/training-code-/csharp/obj/Debug/net10.0/csharp.AssemblyInfo.cs
+/workspaces/training-code-/csharp/obj/Debug/net10.0/csharp.csproj.CoreCompileInputs.cache
+/workspaces/training-code-/csharp/obj/Debug/net10.0/csharp.sourcelink.json
+/workspaces/training-code-/csharp/obj/Debug/net10.0/csharp.dll
+/workspaces/training-code-/csharp/obj/Debug/net10.0/refint/csharp.dll
+/workspaces/training-code-/csharp/obj/Debug/net10.0/csharp.pdb
+/workspaces/training-code-/csharp/obj/Debug/net10.0/csharp.genruntimeconfig.cache
+/workspaces/training-code-/csharp/obj/Debug/net10.0/ref/csharp.dll
